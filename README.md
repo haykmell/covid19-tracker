@@ -1,1 +1,1 @@
-# Covid Tracker application created with React.js
+# Covid-19 Tracker application created with React.js
